@@ -45,10 +45,6 @@ The project utilizes a combination of programming tools, virtualization platform
 📦 Database (if needed):
 •	SQLite / MySQL – For storing configuration, user data, VM metadata.
 
-
-________________________________________
-Chapter 2.  Table of Contents
-2.1	Auto-generated with section and sub-section headings and page numbers.
 ________________________________________
 Chapter 3. Introduction
 3.1	 Background of Operating Systems and Virtualization.
